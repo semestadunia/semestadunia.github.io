@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://popular.myddns.me/sitemap.xml
+Sitemap: https://popular.myddns.me/sitemap.html
